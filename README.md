@@ -10,5 +10,5 @@
 <code><img height="40" src="https://i.ibb.co/K9vhHG8/67564-hardware-drive-ubuntu-free-download-png-hd-thumb.png"></code>
  ### sigueme da click en el icono
 <div align="left"  </div>
-<a href=https://t.me/VEN0M24>
+<a href=https://t.me/Vnom24>
  <code><img height="150" src="https://i.ibb.co/Cm27HtR/1636861847922.png" alt="" /></a></code>
