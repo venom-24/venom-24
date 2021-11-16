@@ -1,8 +1,8 @@
 # hello😎
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/venom-24/venom-24?style=social)
-
-![Banner_Git](https://i.ibb.co/641L9Hr/Sin-t-tulo4.png)
+<a href=https://t.me/Vnom24>
+![Banner_Git](https://i.ibb.co/641L9Hr/Sin-t-tulo4.png) </a>
 ### Sistemas-Os que utilizo
 
 <code><img height="40" src="https://i.ibb.co/2ZyDP0L/images-1.png"></code>
