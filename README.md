@@ -10,6 +10,5 @@
 <code><img height="40" src="https://i.ibb.co/K9vhHG8/67564-hardware-drive-ubuntu-free-download-png-hd-thumb.png"></code>
  ### sigueme da click en el icono
 <div align="left"  </div>
-<a href=https://t.me/Vnom24>
- <code><img height="35" src="https://i.ibb.co/3WgR3WW/Sin-t-tulo44.png" alt="" /></a></code>
-
+<a href=https://t.me/Vnom24><img title="Telegram" src="
+ https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram></a>
