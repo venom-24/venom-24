@@ -9,6 +9,7 @@
 <code><img height="40" src="https://i.ibb.co/hXphZBm/1588634115663.png"></code>
 <code><img height="40" src="https://i.ibb.co/K9vhHG8/67564-hardware-drive-ubuntu-free-download-png-hd-thumb.png"></code>
  ### sigueme da click en el icono
-
+<p align="center">
 <a href=https://t.me/Vnom24><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
 <a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
+</p>
