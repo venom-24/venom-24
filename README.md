@@ -6,7 +6,7 @@
 ### Sistemas-Os que utilizo
 <p align="center">
 <img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
-<img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux">
+<img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux&logoColor=00ffff">
 <img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
 </p>
 
