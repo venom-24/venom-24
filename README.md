@@ -5,9 +5,9 @@
 ![Banner_Git](https://i.ibb.co/641L9Hr/Sin-t-tulo4.png) </a>
 ### Sistemas-Os que utilizo
 <p align="center">
+<img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
 <img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux">
 <img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
-<img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
 </p>
 
 ### sigueme da click en el icono
