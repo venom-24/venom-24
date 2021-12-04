@@ -10,8 +10,7 @@
 <img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
 </p>
 
-<p align="center"><a href="https://github.com/noob-hackers"><img title="venom-24" src="https://github-readme-stats.vercel.app/
-api?username=venom-24&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> </p>
+<p align="center"><a href="https://github.com/venom-24"><img title="venom24" src="https://github-readme-stats.vercel.app/api?username=venom-24&show_icons=true&include_all_commits=true&theme=chartreuse-radical&cache_seconds=3200"></a> </p>
 
 
 ### sigueme da click en el icono
