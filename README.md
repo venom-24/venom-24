@@ -21,10 +21,9 @@
 </p>
 
 
-
-
-
-
+<p align="center">
+<a href="https://github.com/venom-24/beef-24"><img title="beef-24" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=beef-24&theme=radical"></a>
+</p>
 <a href="https://github.com/venom-24/codigo"><img title="codigo" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=codigo&theme=radical"></a>
 </p>
 
