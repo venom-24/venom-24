@@ -25,18 +25,13 @@
 <a href="https://github.com/venom-24/codigo"><img title="codigo" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=codigo&theme=radical"></a>
 </p>
 
-<div id="proyectos">                                                                                         <h2 >Algunos de mis proyectos😎 <200d>💻</h2>
-
+<div id="proyectos">                                                                           <h2 >Algunos de mis proyectos😎 </h2>
 <table align="left" >
-<tr border="none">                                                                                             <td width="25%" align="center">                                                                                <p align="center">
-     <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" title="Go to Source">                                <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/inst
-all_termux_fdroid.webp"   alt="VIDEO" /></a>
-
-</p>                                                                                                       <p align="center">
-        <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" target="blank"><img align="center" src="ht
-tps://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /
-></a>                                                                                                              <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
-    </p>                                                                                                     </td>
+<tr border="none">                                                                             <td width="25%" align="center">                                                                <p align="center">
+<a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" title="Go to Source">               <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/install_termux_fdroid.webp" alt="VIDEO" /></a>
+</p>                                                                                           <p align="center">
+<a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /></a>                                     <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
+    </p>                                                                                            </td>
 
  <td width="25%" align="center">
     <p align="center">
