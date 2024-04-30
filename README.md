@@ -36,7 +36,7 @@
  <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" title="Go to Source">        <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/termux_primeros_pasos.webp"   alt="VIDEO" /></a>                                    </p>                                                                                          <p align="center">                                                                             <a href="https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"/></a>                                        <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
-    </p>                                                                                                     </td>
+    </p>                                </td>
 
 <td width="25%" align="center">
     <p align="center">
