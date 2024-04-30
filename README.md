@@ -28,11 +28,10 @@
 
 
 <div id="proyectos">                                 
-  <h2 >Algunos de mis proyectos😎 <200d>💻</h2>                                                    <table align="left" >   
+  <h2 >Algunos de mis proyectos😎</h2>    <table align="left" >   
     <tr border="none">
   <td width="25%" align="center">
-    <p align="center">                                  
-    <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" title="Go to Source">                           
+    <p align="center">                 <a href="https://youtu.be/58pj4GEncYMsi=FiG-mCdsXzpTS8ig" title="Go to Source">                           
 <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/install_termux_fdroid.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">                                      
