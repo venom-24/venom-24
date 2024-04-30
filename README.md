@@ -25,43 +25,53 @@
 <a href="https://github.com/venom-24/codigo"><img title="codigo" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=codigo&theme=radical"></a>
 </p>
 
+<div id="proyectos">                                                                                         <h2 >Algunos de mis proyectos😎 <200d>💻</h2>
 
+<table align="left" >
+<tr border="none">                                                                                             <td width="25%" align="center">                                                                                <p align="center">
+     <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" title="Go to Source">                                <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/inst
+all_termux_fdroid.webp"   alt="VIDEO" /></a>
 
-<div id="proyectos">                                 
-  <h2 >Algunos de mis proyectos😎</h2>   
-  <table align="left" >   
-    <tr border="none">
-  <td width="25%" align="center">
-    <p align="center">              
-      <a href="https://youtu.be/58pj4GEncYMsi=FiG-mCdsXzpTS8ig" title="Go to Source">                           
-<img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/install_termux_fdroid.webp"   alt="VIDEO" /></a>
+</p>                                                                                                       <p align="center">
+        <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" target="blank"><img align="center" src="ht
+tps://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /
+></a>                                                                                                              <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
+    </p>                                                                                                     </td>
+
+ <td width="25%" align="center">
+    <p align="center">
+     <a href=" https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" title="Go to Source">                               <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/termux_primeros_pasos.webp"   alt="VIDEO" /></a>                                                                       </p>                                                                                                       <p align="center">                                                                                               <a href="https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /
+></a>                                                                                                              <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
+    </p>                                                                                                     </td>
+
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/v6rsSs-B7mA?si=zIjZQOV3o3z_-R0J" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/term
+ux_login.webp"   alt="VIDEO" /></a>
       </p>
-    <p align="center">                                      
-      <a href="https://youtu.be/58pj4GEncYM?si=FiG-mCdsXzpTS8ig" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /></a>                                                <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
+    <p align="center">                                                                                               <a href="https://youtu.be/v6rsSs-B7mA?si=zIjZQOV3o3z_-R0J" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /></a>                                                                                                              <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
     </p>
 </td>
 
-
-<td width="25%" align="center"> 
-  <p align="center">
-     <a href="https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" title="Go to Source">                           
-<img align="center" width=100%  src"https://raw.githubusercontent.com/venom-24/venom-24/main/img/termux_primeros_pasos.webp"/></a>           
-  </p> 
-  <p align="center">                                    
-<a href="https://youtu.be/zm5nGh2PPBI?si=SFpFPoLLzFe52fMe" target="blank">
-<img align="center"src="https://img.shields.io/badge/YouTubeFF0000style=forthebadge&logo=youtube&logoColor=white" alt="@VEN0M24"  /></a>                   
-<a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=forthebadge&logo=github&logoColor=white" alt="@VEN0M24"/></a>                   
-  </p>                                           
+<td width="25%" align="center">
+    <p align="center">                                                                                            <a href="https://youtu.be/W1eD-tJEt0E?si=eASeUpkI8EXDet81" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/ataque_ddos_sql.webp"   alt="VIDEO" /></a>                                                                             </p>
+    <p align="center">                                                                                               <a href="https://youtu.be/W1eD-tJEt0E?si=eASeUpkI8EXDet81" target="blank"><img align="center" src="ht
+tps://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /
+></a>
+      <a href="ttps://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>
+    </p>
 </td>
+<!------------------------->
+                                                                                                             </tr>
+</table>
+  </div>
+  <br>
+<br><br>
+<br>
+<br><br><br>                                                                                                 a<br><br>
 
-<td width="25%" align="center">                      
-  <p align="center">                                   
-    <a href="https://youtu.be/v6rsSs-B7mA?si=zIjZQOV3o3z_-R0J" title="Go to Source">                             <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/termux_login.webp"   alt="VIDEO" /></a>                     </p>                                               <p align="center">                                       <a href="https://youtu.be/v6rsSs-B7mA?si=zIjZQOV3o3z_-R0J" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@VEN0M24"  /></a>                                                <a href="https://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>                   </p>                                             </td>
 
-<td width="25%" align="center">                        <p align="center">                                    <a href="https://youtu.be/W1eD-tJEt0E?si=eASeUpkI8EXDet81" title="Go to Source">                             <img align="center" width=100% src="https://raw.githubusercontent.com/venom-24/venom-24/main/img/ataque_ddos_sql.webp"   alt="VIDEO" /></a>                  </p>                                               <p align="center">                                       <a href="https://youtu.be/W1eD-tJEt0E?si=eASeUpkI8EXDet81" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=fo
-r-the-badge&logo=youtube&logoColor=white" alt="@VEN0M
-24"  /></a>
-      <a href="ttps://github.com/venom-24" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@VEN0M24" /></a>                    </p>                                    </td>
-
-</tr>                                                </table>                                               </div>                                               <br>                                               <br><br>                                             <br>                                                 <br><br><br>                                         <br><br>  
-
+    
+                          
