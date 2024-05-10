@@ -1,6 +1,6 @@
 # hello😎
 
-![Banner_Git](https://raw.githubusercontent.com/venom-24/venom-24/main/img/Banner.webp) </a>
+![Banner_Git](https://github.com/venom-24/venom-24/blob/main/img/venom24.gif) </a>
 ### Sistemas-Os que utilizo
 <p align="center">
 <img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
