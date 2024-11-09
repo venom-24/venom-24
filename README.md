@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://github.com/venom-24/venom24_metasploit"><img title="Metasploit" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=venom24_metasploit&theme=radical"></a>
 </p>
-<a href="https://github.com/venom-24/codigo"><img title="codigo" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=codigo&theme=radical"></a>
+<a href="https://github.com/venom-24/Tunel-ngrok"><img title="tunel-ngrok" src="https://github-readme-stats.vercel.app/api/pin/?username=venom-24&repo=Tunel-ngrok&theme=radical"></a>
 </p>
 
 <div id="proyectos">                                                                           <h2 >Algunos de mis proyectos😎 </h2>
